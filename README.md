@@ -1,4 +1,4 @@
-#### Mecenas Protocol V3 Multisign
+#### Mecenas Protocol V3 Multisign (DEPRECATED)
 #### Sustainable and Inclusive Donations Pool Generator
 
 #### PROJECT DESCRIPTION:
